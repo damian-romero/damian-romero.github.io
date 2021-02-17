@@ -13,7 +13,7 @@ The Multilingual College Email Corpus Project (MCEC) is an ongoing collection of
 
 It is a first-of-its-kind project given its wide scope (several disciplines and academic levels) and the sociolinguistic information collected (L1, L2, linguistic experiences, heritage languages, and more).
 
-I initiated the MCEC as my Ph.D. dissertation project and, since then, it has grown in orders of magnitude. I am currently leading a team of six graduate students from three different departments.
+I initiated the MCEC as my Ph.D. dissertation project and, since then, it has grown in orders of magnitude. I am currently co-leading a team of seven graduate students (including myself) from three different departments.
 
 ### Expected outcomes and impacts
 
@@ -30,20 +30,18 @@ While currently working at the university level, we expect to grow beyond its wa
 
 ### The MCEC team
 
-Founder and director: Damian Romero (me)
+Founders and co-directors: Damian Romero (me) and Hanyu Jia
 
-Steering committee (and PIs): [Damian Romero](https://spanish.arizona.edu/people/damianiji), Hanyu Jia, Mohammed K. AlShakhori
+Research Team: Wei Xu, [Maria Laura Viale](https://www.linkedin.com/in/laura-viale/), [Kristina Mihajlovic](https://linguistics.arizona.edu/user/kristina-mihajlovic), Peiwen Su, and Hui Wang (our newest member, yay!).
 
-Research Team: Wei Xu, [Maria Laura Viale](https://www.linkedin.com/in/laura-viale/), [Kristina Mihajlovic](https://linguistics.arizona.edu/user/kristina-mihajlovic), and Peiwen Su.
-
-Advisory Board: [Dr. Julieta Fernandez](https://julietafernandez.faculty.arizona.edu/), [Dr. Carmen King de Ramirez](https://www.carmenkingramirez.com/)
+Advisory Board: [Dr. Julieta Fernandez](https://julietafernandez.faculty.arizona.edu/) and [Dr. Carmen King de Ramirez](https://www.carmenkingramirez.com/)
 
 *** The MCEC project is an interdisciplinary team effort compromised with diversity and inclusion.**
 
 ## Associated code repositories
 
 * MCEC - Email Generation Tool: [https://github.com/damian-romero/MCEC-EmG](https://github.com/damian-romero/MCEC-EmG)
-* TBA
+* MCEC - De-Identification Tool: [https://github.com/damian-romero/MCEC-DeID](https://github.com/damian-romero/MCEC-DeID)
 
 ---
 
