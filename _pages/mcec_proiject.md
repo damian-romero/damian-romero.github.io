@@ -20,13 +20,15 @@ I initiated the MCEC as my Ph.D. dissertation project and, since then, it has gr
 Concrete outcomes of our work will include the creation of the following materials:
 - A list of recommendations and examples for writing successful college emails.
 - Evidence-based rubrics for students to evaluate the likelihood of success of their emails.
-- Curricula and pedagogical materials such as exercises and or word/phrase lists designed to improve students’ pragmatic competence in college email communication.
+- Curricular and pedagogical materials for students such as exercises and or word/phrase lists designed to improve students’ pragmatic competence in college email communication.
+- Curricular and pedagogical materials for instructors on how to text mine our corpus to better serve their students in their respective fields
+- Text mining teaching materials through [Binder](https://mybinder.org/) for researchers in the social sciences and digital humanities to work with our (and any) text corpus.
 
 These resources are aimed to be used by the academic community within and outside the University of Arizona and will be distributed freely through the University of Arizona Research Data Repository (ReDATA) under an open-source license. The resources will support student success (a) interpersonally by helping them write emails that foster positive rapport between them and their instructors and (b) transactionally by teaching them how to be more effective communicators and improve their interpersonal competence. Our goal is to help improve students’ college email communication and advance their global, cultural, and professional literacy.
 
 ### Future plans
 
-While currently working at the university level, we expect to grow beyond its walls so that students and instructors from all over the country and, possibly, the world can discover how to better interact with each other given their particular linguistic and cultural backgrounds.
+While currently working at the University of Arizona level, we expect to grow beyond its walls so that students and instructors from all over the country and, possibly, the world can discover how to better interact with each other given their particular linguistic and cultural backgrounds.
 
 ### The MCEC team
 
