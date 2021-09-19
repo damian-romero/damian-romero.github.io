@@ -24,7 +24,7 @@
 
 locale: "en-US"
 title: "Damian Romero,\nComputational Hispanic Linguist"
-subtitle: 'Site version: v2.1'
+subtitle: 'Site version: v2.2'
 name: "Damian Romero"
 email: damianiji [at] email [dot] arizona [dot] edu
 description: "Damian Romero's professional website."
@@ -37,7 +37,7 @@ og_image: "assets/images/website-preview-squared.png"
 #   Damian Romero's website.
 twitter_username: DamianRomero_CL
 github_username: damian-romero
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
