@@ -12,7 +12,8 @@ header:
 
 ![image-right](/assets/images/me-photo.png){: .align-right}
 
-# About me
+
+# About me 🦗
 
 ![Bash](https://img.shields.io/badge/Bash-%7C-green) ![Python](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![Perl](https://img.shields.io/badge/Perl-%7C-blue) ![R](https://img.shields.io/badge/R-%7C-red) ![Matlab](https://img.shields.io/badge/Matlab-%7C-orange)
 
@@ -24,11 +25,23 @@ My **language annotation, linguistic analysis, and language engineering** experi
 
 My research interests lay in the intersection between **communication outcomes, theoretical linguistics, and big data**.
 
-### Backend Software Development, Data Curation, and Outreach
 
-I am currently working as a Graduate Assistant for the University of Arizona Libraries under the supervision of [Dr. Chun Ly](https://astrochun.github.io/) in DevOps, data curation, and outreach for the University of Arizona Libraries' [Research Data Repository (ReDATA)](https://data.library.arizona.edu/redata).
+### Machine Learning Internship 💥
 
-### Dissertation work
+I am a Machine Learning intern at [Explosion AI](https://explosion.ai/)! I am beyond happy to be able to work with all the great people in this team.
+
+
+### Natural Language Processing Work as a Graduate Assistant 🤖
+
+I am currently working as a Graduate Assistant for the School of Information for Dr. Tracy Crane and Dr. Steven Bethard on an NIH Grant. Our aim is to us NLP to help improve outcomes of cancer prevention interventions in the U.S. Hispanic Spanish-speaking population, specifically Latinas suffering from ovarian cancer. My duties include:
+* Assisting in the writing of a minority supplement grant application
+* Creation of linguistic annotation guidelines for speaker diarisation and adaptation of the Motivational Interviewing Treatment Integrity Coding
+* Language annotation of English and Spanish audio datasets of cancer-survivors' coaching sessions
+* Theorization of Motivational Interviewing causal models and cultural limitations
+* Statistical analysis and ML modeling of Lifestyle Intervention for Ovarian Cancer Enhanced Survival (LIVES) data
+
+
+### Dissertation work 📚
 
 My dissertation work is on cutting-edge analysis of teacher-student interactions. Specifically,
 
@@ -42,7 +55,8 @@ My dissertation work is on cutting-edge analysis of teacher-student interactions
 - [Dr. Sandiway Fong](http://www.u.arizona.edu/~sandiway/) (Linguistics, Computer Science)
 - [Dr. Helena Gomez Adorno](https://www.linkedin.com/in/helena-gomez-adorno-31930524/?originalSubdomain=mx) (IIMAS - UNAM)
 
-### My work philisophy
+
+### My work philisophy 💼
 
 ```python
 def jump_higher():
@@ -55,10 +69,12 @@ while True:
     jump_higher()
 ```
 
-### My GitHub stats
+
+### My GitHub stats 📊
 
 ![](https://github-readme-stats.vercel.app/api?username=damian-romero&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damian-romero&layout=compact&theme=dark)
 
 ---------
 
-## You can find my resume [here](https://data.library.arizona.edu/sites/default/files/Resume%28online%29_DamianRomero_10_2020.pdf) and my CV [here](https://data.library.arizona.edu/sites/default/files/CV%28online%29_DamianRomero_10_2020.pdf).
+
+## You can find my resume [here](https://github.com/damian-romero/damian-romero.github.io/blob/master/files/Resume(online)_DamianRomero.pdf) and my CV [here](https://github.com/damian-romero/damian-romero.github.io/blob/master/files/CV(online)_DamianRomero.pdf).
