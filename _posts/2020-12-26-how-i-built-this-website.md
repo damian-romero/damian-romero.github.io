@@ -17,7 +17,9 @@ This is a very quick walkthrough of how I built this website in an afternoon usi
 
 For this project I used a machine running MacOs Catalina. These steps may or may not work depending on your Operating System and version.
 
+
 ## Minimal steps I took:
+
 
 ### I. Install Prerequisites
 
@@ -42,6 +44,7 @@ source ~/.bash_profile # for Bash
 
 ```
 
+
 ### II. Install `Jekyll` and `bundler` gems
 
 ```bash
@@ -64,6 +67,7 @@ PATH="$HOME/.gem/ruby/X.X.0/bin:$PATH" # Example for version 2.7.3: PATH="$HOME/
 
 \* Note: If you do not have a GitHub account, go to the [resources](#resources) section and follow the link. You will need to learn how to use Git as well. 
 
+
 ### IV. Test your site locally
 
 You can test your site on your computer before you push it to your remote.
@@ -74,6 +78,8 @@ bundle exec jekyll serve
 # Go to http://127.0.0.1:4000 on your browser and look at your website
 # Press ctrl + c to quit at any time
 ```
+Note that, if you get an error saying `ERROR '/favicon.ico' not found`, it may mean you need to run the above command from the root directory of your git repository.
+
 
 ### V. Start adding content
 
@@ -98,6 +104,7 @@ main:
 3. Add `posts` as markdown files to your `_posts`. Posts have a specific structure. For an example look at my first posts [here](https://github.com/damian-romero/damian-romero.github.io/blob/master/_posts/2020-12-03-welcome.md)
 4. Further develop your site. You can follow the Minimal Mistakes customization documentation [here](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
+
 ### VI. Push to remote
 
 Once you are happy with your progress, follow the normal [Git/GitHub steps](https://docs.github.com/en/free-pro-team@latest/github/using-git/git-workflows) to push to remote. **Make sure you are not pushing any confidential information**
@@ -108,11 +115,13 @@ git commit -m 'First commit'
 git push
 ```
 
+
 ### VII. Visit your site
 
 ```bash
 open https://username.github.io # replace 'username' with your user name
 ```
+
 
 ### VIII. Custom domain
 
@@ -142,9 +151,10 @@ The result looks like this:
 
 ![records](/assets/images/custom-resource-records.png)
 
+
 # IX That is it!
 
-You've made it!
+You've made it. Now you're the proud owner of your personal website.
 
 ## Resources
 
