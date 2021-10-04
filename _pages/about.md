@@ -10,7 +10,7 @@ header:
 ---
 []() <!-- Quick hack to avoid title doubbling after title omission in header -->
 
-![image-right](/assets/images/me-photo.png){: .align-right}
+![image-right](/assets/images/me-photo-2021.png){: .align-right}
 
 
 # About me 🦗
@@ -19,25 +19,24 @@ header:
 
 Thank you for visiting my website.
 
-I am a Ph.D. candidate at the University of Arizona working on **English, Spanish, and Portuguese** research.
+I am a Ph.D. candidate at the University of Arizona working on research in English, Spanish, and Portuguese.
 
-My **language annotation, linguistic analysis, and language engineering** experience has led me to work in group and individual projects in **academia and industry**.
+I have lead and participated in work for *corpus creation, annotation, and management, linguistic analysis, and language engineering* for academia and industry.
 
-My research interests lay in the intersection between **communication outcomes, theoretical linguistics, and big data**.
+My research interests lay in the intersection between *communication outcomes, theoretical linguistics, and big data*.
 
 
 ### Machine Learning Internship 💥
 
-I am a Machine Learning intern at [Explosion AI](https://explosion.ai/)! I am beyond happy to be able to work with all the great people in this team.
+Since May 2021 I have been a Machine Learning intern at [Explosion AI](https://explosion.ai/). I am beyond happy to be able to work with all the great people in this team!
 
 
 ### Natural Language Processing Work as a Graduate Assistant 🤖
 
-I am currently working as a Graduate Assistant for the School of Information for Dr. Tracy Crane and Dr. Steven Bethard on an NIH Grant. Our aim is to us NLP to help improve outcomes of cancer prevention interventions in the U.S. Hispanic Spanish-speaking population, specifically Latinas suffering from ovarian cancer. My duties include:
+I am currently working as a Graduate Research Assistant for Dr. Tracy Crane (University of Miami) and Dr. Steven Bethard (UA School of Information) on an NIH Grant. We use NLP to help improve outcomes of cancer prevention interventions in the U.S. Hispanic Spanish-speaking population, specifically Latinas suffering from ovarian cancer. My duties include:
 * Assisting in the writing of a minority supplement grant application
-* Creation of linguistic annotation guidelines for speaker diarisation and adaptation of the Motivational Interviewing Treatment Integrity Coding
-* Language annotation of English and Spanish audio datasets of cancer-survivors' coaching sessions
-* Theorization of Motivational Interviewing causal models and cultural limitations
+* Creation and management of linguistic annotation for our data, including speaker diarisation, Motivational Interviewing Treatment Integrity (MITI), fidelity scoring, and health-topic annotation
+* Theorization of the causal models and cultural limitations of Motivational Interviewing
 * Statistical analysis and ML modeling of Lifestyle Intervention for Ovarian Cancer Enhanced Survival (LIVES) data
 
 
