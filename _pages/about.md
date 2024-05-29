@@ -19,40 +19,13 @@ header:
 
 Thank you for visiting my website.
 
-I am a Ph.D. candidate at the University of Arizona working on research in English, Spanish, and Portuguese.
+I am a computational linguist diving deep into the world of educational technologies.
 
-I have lead and participated in work for *corpus creation, annotation, and management, linguistic analysis, and language engineering* for academia and industry.
+I can often be found buried under a mountain of research articles, battling it out in video games, or conjuring code on my computer.
 
-My research interests lay in the intersection between *communication outcomes, theoretical linguistics, and big data*.
+I have lead and worked on *data creation, annotation, and management, linguistic analysis, and language engineering* for AI in both academia and industry.
 
-
-### Machine Learning Internship 💥
-
-Since May 2021 I have been a Machine Learning intern at [Explosion AI](https://explosion.ai/). I am beyond happy to be able to work with all the great people in this team!
-
-
-### Natural Language Processing Work as a Graduate Assistant 🤖
-
-I am currently working as a Graduate Research Assistant for Dr. Tracy Crane (University of Miami) and Dr. Steven Bethard (UA School of Information) on an NIH Grant. We use NLP to help improve outcomes of cancer prevention interventions in the U.S. Hispanic Spanish-speaking population, specifically Latinas suffering from ovarian cancer. My duties include:
-* Assisting in the writing of a minority supplement grant application
-* Creation and management of linguistic annotation for our data, including speaker diarisation, Motivational Interviewing Treatment Integrity (MITI), fidelity scoring, and health-topic annotation
-* Theorization of the causal models and cultural limitations of Motivational Interviewing
-* Statistical analysis and ML modeling of Lifestyle Intervention for Ovarian Cancer Enhanced Survival (LIVES) data
-
-
-### Dissertation work 📚
-
-My dissertation work is on cutting-edge analysis of teacher-student interactions. Specifically,
-
-- The collection of a teacher-student email interaction corpus which includes sociolinguistic, language experience, email experience, and course information about the participants.
-- Qualitative and quantitative analysis of such interactions using corpus pragmatics, rapport-management theory, speech act theory,  politeness theory, and variational pragmatics.
-- Computational linguistics analysis (principal component analysis, machine learning, deep learning).
-
-**My dissertation committee includes:**
-- [Dr. Carmen King de Ramirez](https://carmenkingramirez.com/) (Director)
-- [Dr. Julieta Fernandez](https://julietafernandez.faculty.arizona.edu/) (Spanish and Portuguese, SLAT)
-- [Dr. Sandiway Fong](http://www.u.arizona.edu/~sandiway/) (Linguistics, Computer Science)
-- [Dr. Helena Gomez Adorno](https://www.linkedin.com/in/helena-gomez-adorno-31930524/?originalSubdomain=mx) (IIMAS - UNAM)
+My research interests lay in the intersection between *humans communicating with AI, educational technology, and gamification*.
 
 
 ### My work philisophy 💼
@@ -76,4 +49,4 @@ while True:
 ---------
 
 
-## You can find my resume [here](https://github.com/damian-romero/damian-romero.github.io/blob/master/files/Resume(online)_DamianRomero.pdf) and my CV [here](https://github.com/damian-romero/damian-romero.github.io/blob/master/files/CV(online)_DamianRomero.pdf).
+## You can find my resume [here](https://github.com/damian-romero/damian-romero.github.io/blob/master/files/Resume(online)_DamianRomero.pdf).
