@@ -134,6 +134,6 @@ Jump higher!
 
 \- Damian
 
-<p>
+<!-- <p>
   <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=damian-romero/damian-romero.github.io/blob/master/_posts/2020-12-29-solve-xcrun-error-and-fix-jekyll-environment-after-macos-bigsur-update.md" />
-</p>
+</p> -->

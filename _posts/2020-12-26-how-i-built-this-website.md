@@ -179,6 +179,6 @@ Jump higher!
 \- Damian
 
 <!-- Visitor counter -->
-<p>
+<!-- <p>
   <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=damian-romero/damian-romero.github.io/blob/master/_posts/2020-12-26-how-i-built-this-website.md" />
-</p>
+</p> -->
