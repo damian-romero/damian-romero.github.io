@@ -69,8 +69,3 @@ A tutorial on how to build your own videogame in Python using [PyGame](https://w
 ## Sample lesson: The verb to be in Spanish (ser y estar)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gdrSc8vnLkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-## Sample lesson: Two ways to narrate events in the past (pretérito e imerfecto)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/87MIc6Gwdpc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
