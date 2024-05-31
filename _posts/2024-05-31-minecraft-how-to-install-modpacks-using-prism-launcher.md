@@ -10,9 +10,9 @@ tags:
   - Gaming
 excerpt: "Learn how to effortlessly install Minecraft modpacks, including Gaia's Riddle, using Prism Launcher with this step-by-step guide."
 header:
-  overlay_image: "assets/images/blog-teaser-no-text.png"
+  overlay_image: "assets/images/mc-blog-post.png"
   og_image: "assets/images/website-preview-squared.png"
-  caption: "Photo credit: [**AltumCode on Unsplash**](https://unsplash.com/@altumcode?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  caption: "Photo credit: Minecraft, Gaia's Riddle Modpack, Self"
 ---
 
 This guide will walk you through the process of installing modpacks using Prism Launcher, specifically focusing on how to get the Gaia's Riddle modpack up and running.
