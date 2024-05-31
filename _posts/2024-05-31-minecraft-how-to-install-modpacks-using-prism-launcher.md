@@ -42,7 +42,7 @@ First, you'll need to install Prism Launcher. Follow these steps:
 Next, you'll need to download the modpack you want to use. In this case, we'll use Gaia's Riddle:
 
 1. Visit the [Gaia's Riddle page on CurseForge](https://www.curseforge.com/minecraft/modpacks/gaias-riddle).
-2. Download the Gaia's Riddle-1.5.zip file to your computer.
+2. Download the Gaia's Riddle-1.6.zip file (or later version) to your computer.
 
 ![Download Gaia's Riddle Modpack](/assets/images/download-gaias-riddle.png)
 
@@ -52,7 +52,7 @@ Now, let's add a new Minecraft instance in Prism Launcher using the import funct
 
 1. Open Prism Launcher.
 2. Click on the "Instances" tab.
-3. Click on "Import from zip" and select the Gaia's Riddle-1.5.zip file you downloaded.
+3. Click on "Import from zip" and select the Gaia's Riddle-1.6.zip or (later version) file you downloaded.
 
 ![Import Modpack in Prism Launcher](/assets/images/import-modpack.png)
 
