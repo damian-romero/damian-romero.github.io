@@ -112,13 +112,13 @@ Taoism encompasses various practices that guide individuals toward a life of har
 
 The gaming community, despite its global reach and diversity, still faces significant challenges in creating an inclusive and respectful environment for all players. Issues related to sex, gender, race, nationality, and other backgrounds persist, making it difficult for some players to feel welcomed and respected. To foster a truly inclusive gaming culture, it is essential not only to acknowledge the presence of diverse players but also to actively invite and support them, ensuring a respectful and welcoming environment.
 
-Daoism offers a compelling philosophical foundation for promoting inclusivity and gender equality within the gaming community. Unlike many traditional worldviews, Daoism does not construct a hierarchy where the male dominates the female; instead, Daoism highlights the complementary nature of yin and yang, representing femininity and masculinity, respectively (Moeller, 2012, pp. 303-304). These concepts are depicted as equally valuable, each contributing unique and necessary qualities to the balance of the universe.
+Taoism offers a compelling philosophical foundation for promoting inclusivity and gender equality within the gaming community. Unlike many traditional worldviews, Taoism does not construct a hierarchy where the male dominates the female; instead, Taoism highlights the complementary nature of yin and yang, representing femininity and masculinity, respectively (Moeller, 2012, pp. 303-304). These concepts are depicted as equally valuable, each contributing unique and necessary qualities to the balance of the universe.
 
 Taoist texts often highlight the positive aspects of the feminine, providing a philosophical basis for non-patriarchal or even matriarchal perspectives. Contemporary gender ethics have drawn on Taoist principles to challenge Western patriarchal constructs, demonstrating that male domination is not a natural given but a cultural construct with viable alternatives (Moeller, 2012, p. 304).
 
 ![Diversity](/assets/images/taoist-gameplay/diversity.webp)
 
-Applying Taoist principles to the gaming community can significantly enhance inclusivity. The Taoist concept of **Embracing the Feminine (shǒucí 行守)** can be reinterpreted through the notion of yin and yang to foster an environment where welcoming, nurturing, and protective actions are not seen as inherently feminine but as essential human qualities. After all, we can all probably think of all kinds of people, not just women, who are welcoming, nurturing, and protective. For instance, think of **Lee Everett** from *The Walking Dead* video game series, who takes on a nurturing and protective role for Clementine, guiding and safeguarding her through the perils of a post-apocalyptic world. By recognizing and valuing these qualities in all individuals, the gaming community can create a more inclusive and supportive environment for everyone. Here are some practical steps:
+Applying Taoist principles to the gaming community can significantly enhance inclusivity. The Taoist concept of **Embracing the Feminine (shǒucí 行守)** can be reinterpreted through the notion of yin and yang to foster an environment where welcoming, nurturing, and protective actions are not seen as inherently feminine but as essential human qualities. After all, we can all probably think of all kinds of people, not just women, who are welcoming, nurturing, and protective. For instance, think of [**Lee Everett**](https://en.wikipedia.org/wiki/Lee_Everett) from *The Walking Dead* video game series, who takes on a nurturing and protective role for Clementine, guiding and safeguarding her through the perils of a post-apocalyptic world. By recognizing and valuing these qualities in all individuals, the gaming community can create a more inclusive and supportive environment for everyone. Here are some practical steps:
 
 1. **Active Invitation and Respect:**
     - Make a conscious effort to invite players from underrepresented groups, including women, into your gaming sessions. Acknowledge their presence and contributions, ensuring they feel valued and respected.
@@ -183,10 +183,12 @@ Your contributions have greatly enhanced the quality and clarity of this work. T
 
 ## References
 
-Hoff, Shepard, & Shepard, Ernest H. (1983). The Tao of Pooh. Penguin Books.
+Hoff, Shepard, & Shepard, Ernest H. (1983). *The Tao of Pooh*. Penguin Books.
 
 Moeller, H.-G. (2012). Taoism. In _Encyclopedia of Applied Ethics_ (pp. 298–305). Elsevier. [https://doi.org/10.1016/B978-0-12-373932-2.00217-9](https://doi.org/10.1016/B978-0-12-373932-2.00217-9)
 
-Wikipedia Contributors. (n.d.). Sandbox game. In Wikipedia, The Free Encyclopedia. Retrieved June 9, 2024, from https://en.wikipedia.org/wiki/Sandbox_game
+Wikipedia Contributors. (n.d.). Lee Everett. In *Wikipedia, The Free Encyclopedia*. Retrieved June 9, 2024, from https://en.wikipedia.org/wiki/Lee_Everett
 
-Wikipedia Contributors. (n.d.). Taoism. In Wikipedia, The Free Encyclopedia. Retrieved June 9, 2024, from [https://en.wikipedia.org/wiki/Taoism](https://en.wikipedia.org/wiki/Taoism)
+Wikipedia Contributors. (n.d.). Sandbox game. In *Wikipedia, The Free Encyclopedia*. Retrieved June 9, 2024, from https://en.wikipedia.org/wiki/Sandbox_game
+
+Wikipedia Contributors. (n.d.). Taoism. In *Wikipedia, The Free Encyclopedia*. Retrieved June 9, 2024, from [https://en.wikipedia.org/wiki/Taoism](https://en.wikipedia.org/wiki/Taoism)
