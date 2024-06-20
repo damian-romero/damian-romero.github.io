@@ -1,6 +1,6 @@
 ---
 title: "Spanish-Speaking Video Game Gems for Learning Spanish, Part 1"
-date: 2024-06-11T00:00:00-00:00
+date: 2024-06-19T00:00:00-00:00
 categories:
   - blog
 tags:
